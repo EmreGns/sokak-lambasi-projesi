@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108"
+    android:tint="#FFFFFF">
+    <group
+        android:scaleX="0.5"
+        android:scaleY="0.5"
+        android:translateX="27"
+        android:translateY="27">
+        <!-- Direk -->
+        <path
+            android:fillColor="#424242"
+            android:pathData="M54,20L54,88"/>
+        <!-- Lamba başlığı -->
+        <path
+            android:fillColor="#FFC107"
+            android:pathData="M54,20C54,20 40,20 40,35C40,50 54,65 54,65C54,65 68,50 68,35C68,20 54,20 54,20Z"/>
+        <!-- Işık halkası -->
+    <path
+            android:fillColor="#FFEB3B"
+            android:fillAlpha="0.3"
+            android:pathData="M54,65C54,65 30,45 30,35C30,25 54,5 54,5C54,5 78,25 78,35C78,45 54,65 54,65Z"/>
+    </group>
+</vector>
