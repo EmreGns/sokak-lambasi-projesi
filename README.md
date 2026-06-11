@@ -105,8 +105,19 @@ Sistem üç ana bileşenden oluşur:
    - Backend bağlantısı kesildiğinde
 
 ## 📸 Ekran Görüntüleri ve Şemalar
-<img width="1168" height="932" alt="app icon" src="https://github.com/user-attachments/assets/1739bad6-303b-4f4a-98fc-32f7fd4701ce" />
-<img width="1000" height="1600" alt="uygulama içi görseli" src="https://github.com/user-attachments/assets/e80ff74b-7e54-42fa-a8e6-8831f6a89196" />
-<img width="2048" height="1536" alt="tasarım görseli" src="https://github.com/user-attachments/assets/fc46fcd4-8939-4ecf-bdd7-78163f046e63" />
-<img width="1168" height="932" alt="app icon" src="https://github.com/user-attachments/assets/2283bef0-f17e-4f9b-a079-5bbd3be9feab" />
-  
+
+### 📱 Mobil Uygulama Arayüzü & İkon Tasarımı
+Uygulamanın kullanıcı arayüzü ve mobil cihazlardaki görünümü:
+
+| Android Uygulama İkonu | Mobil Kontrol Paneli |
+|------------------------|----------------------|
+| <img width="400" alt="Android Uygulama İkonu" src="https://github.com/user-attachments/assets/1739bad6-303b-4f4a-98fc-32f7fd4701ce" /> | <img width="400" alt="Uygulama İçi Kontrol Ekranı" src="https://github.com/user-attachments/assets/e80ff74b-7e54-42fa-a8e6-8831f6a89196" /> |
+
+---
+
+### 🛠️ Donanım Kurulumu & Devre Tasarımı
+Sistemin ESP32 tabanlı fiziksel prototipi ve devre şeması tasarımı:
+
+| Donanım Prototip Tasarımı | Devre Şeması / Bağlantı Detayları |
+|---------------------------|-----------------------------------|
+| <img width="400" alt="Fiziksel Prototip Tasarımı" src="https://github.com/user-attachments/assets/fc46fcd4-8939-4ecf-bdd7-78163f046e63" /> | <img width="400" alt="Devre Şeması Bağlantıları" src="https://github.com/user-attachments/assets/2283bef0-f17e-4f9b-a079-5bbd3be9feab" /> |
