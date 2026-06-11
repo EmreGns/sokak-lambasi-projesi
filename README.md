@@ -13,6 +13,16 @@ Sistem temel olarak iki farklı modda çalışır ve her iki modda da anlık ola
 
 ---
 
+## 🗺️ Algoritma ve Çalışma Akış Şeması
+
+Sistemin ana kontrol lojiği ve karar mekanizmasının çalışma akış diyagramı:
+
+<p align="center">
+  <img width="650" alt="Sistem Çalışma Akış Şeması" <img width="702" height="234" alt="akış şeması" src="https://github.com/user-attachments/assets/4f458d81-1009-4dac-96b5-5e0afaea8990" />
+</p>
+
+---
+
 ## ✨ Özellikler
 
 - 🌙 **Gece ve Hareket Algılama:** Sadece ihtiyaç anında çalışan akıllı aydınlatma algoritması.
