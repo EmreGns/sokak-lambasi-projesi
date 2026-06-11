@@ -128,7 +128,7 @@ Uygulamanın kullanıcı arayüzü ve mobil cihazlardaki görünümü:
 
 | Android Uygulama İkonu | Mobil Kontrol Paneli |
 |------------------------|----------------------|
-| <img width="400" alt="Android Uygulama İkonu" src="https://github.com/user-attachments/assets/1739bad6-303b-4f4a-98fc-32f7fd4701ce" /> | <img width="400" alt="Uygulama İçi Kontrol Ekranı" src="https://github.com/user-attachments/assets/1739bad6-303b-4f4a-98fc-32f7fd4701ce" /> |
+| <img width="400" alt="Android Uygulama İkonu" src="https://github.com/user-attachments/assets/1739bad6-303b-4f4a-98fc-32f7fd4701ce" /> | <img width="400" alt="Uygulama İçi Kontrol Ekranı" <img width="1000" height="1600" alt="uygulama içi görseli" src="https://github.com/user-attachments/assets/524caa2c-af23-40b6-9cef-fcc3953e1124" /> |
 
 ---
 
