@@ -1,19 +1,26 @@
 # 💡 Akıllı Sokak Lambası Projesi
 
-Bu proje, **ESP32 tabanlı akıllı sokak lambası** sisteminin Android uygulaması ve backend servisini içerir. Sistem, ortam ışığı ve hareket sensörlerini kullanarak lambaları otomatik olarak kontrol eder veya manuel müdahaleye izin verir.
+Bu proje, özellikle kırsal kesimlerde ve az kullanılan yollarda **yüksek enerji tasarrufu** sağlamak amacıyla geliştirilmiş, ESP32 tabanlı ve bulut entegrasyonlu akıllı bir sokak lambası sistemidir.
+
+---
+
+## 📌 Proje Mantığı ve Çalışma Senaryosu
+
+Sistem temel olarak iki farklı modda çalışır ve her iki modda da anlık olarak bulut üzerinden kontrol edilebilir:
+
+- 🔄 **Otomatik Mod (Akıllı Tasarruf):** Sistem sadece **gece olduğunda (LDR sensörü ile)** ve **bir hareket algılandığında (PIR sensörü ile)** lambayı tam güçte yakar. Hareket olmadığı durumlarda lambayı kapatarak veya kısarak ciddi oranda enerji tasarrufu sağlar.
+- 📱 **Manuel Mod (Uzaktan Kontrol):** Kullanıcı, mesafe sınırı olmaksızın **Android uygulama üzerinden** tek bir dokunuşla buluta (Firebase) bağlanarak lambaları istediği gibi açıp kapatabilir veya modlar arasında geçiş yapabilir.
 
 ---
 
 ## ✨ Özellikler
 
-- 🔄 Otomatik / Manuel mod geçişi
-- 📊 Sensör verilerinin gerçek zamanlı görüntülenmesi
-- 🔔 Durum değişikliklerinde anlık bildirimler
-- 📱 Kullanıcı dostu Android arayüzü
-- 🔒 Güvenli veri iletişimi
-- 📈 Sensör verilerinin grafiksel analizi
-- 🌐 REST API ile uzaktan kontrol
-- 🔥 Firebase Realtime Database entegrasyonu
+- 🌙 **Gece ve Hareket Algılama:** Sadece ihtiyaç anında çalışan akıllı aydınlatma algoritması.
+- 📉 **Kırsal Bölge Optimizasyonu:** Gereksiz gece aydınlatmasını önleyerek yüksek enerji tasarrufu.
+- ☁️ **Bulut Entegrasyonu:** Firebase Realtime Database ile anlık ve gecikmesiz veri iletişimi.
+- 📱 **Kullanıcı Dostu Android Arayüzü:** Lambaları uzaktan açma/kapama ve mod değiştirme butonları.
+- 🔔 **Anlık Bildirimler:** Lamba durumu veya çalışma modu değiştiğinde telefona gelen push bildirimleri.
+- 📊 **Sensör Analizi:** Ortam ışığı ve hareket geçmişinin uygulama içinden grafiksel takibi.
 
 ---
 
