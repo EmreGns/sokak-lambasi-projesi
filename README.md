@@ -18,7 +18,7 @@ Sistem temel olarak iki farklı modda çalışır ve her iki modda da anlık ola
 Sistemin ana kontrol lojiği ve karar mekanizmasının çalışma akış diyagramı:
 
 <p align="center">
-  <img width="650" alt="Sistem Çalışma Akış Şeması" src= <img width="702" height="234" alt="akış şeması" src="https://github.com/user-attachments/assets/73a6f7e7-a600-420b-b3b1-d70e971e7800" />
+  <img width="650" alt="Sistem Çalışma Akış Şeması" <img width="702" height="234" alt="akış şeması" src="https://github.com/user-attachments/assets/73a6f7e7-a600-420b-b3b1-d70e971e7800" />
 
 </p>
 
