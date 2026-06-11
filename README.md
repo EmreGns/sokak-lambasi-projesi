@@ -103,3 +103,10 @@ Sistem üç ana bileşenden oluşur:
    - Mod değiştiğinde
    - Sensör verisi alınamadığında
    - Backend bağlantısı kesildiğinde
+
+## 📸 Ekran Görüntüleri ve Şemalar
+<img width="1168" height="932" alt="app icon" src="https://github.com/user-attachments/assets/1739bad6-303b-4f4a-98fc-32f7fd4701ce" />
+<img width="1000" height="1600" alt="uygulama içi görseli" src="https://github.com/user-attachments/assets/e80ff74b-7e54-42fa-a8e6-8831f6a89196" />
+<img width="2048" height="1536" alt="tasarım görseli" src="https://github.com/user-attachments/assets/fc46fcd4-8939-4ecf-bdd7-78163f046e63" />
+<img width="1168" height="932" alt="app icon" src="https://github.com/user-attachments/assets/2283bef0-f17e-4f9b-a079-5bbd3be9feab" />
+  
