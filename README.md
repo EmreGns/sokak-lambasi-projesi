@@ -118,6 +118,6 @@ Uygulamanın kullanıcı arayüzü ve mobil cihazlardaki görünümü:
 ### 🛠️ Donanım Kurulumu & Devre Tasarımı
 Sistemin ESP32 tabanlı fiziksel prototipi ve devre şeması tasarımı:
 
-| Donanım Prototip Tasarımı | Devre Şeması / Bağlantı Detayları |
-|---------------------------|-----------------------------------|
-| <img width="400" alt="Fiziksel Prototip Tasarımı" src="https://github.com/user-attachments/assets/fc46fcd4-8939-4ecf-bdd7-78163f046e63" /> | <img width="400" alt="Devre Şeması Bağlantıları" src="https://github.com/user-attachments/assets/2283bef0-f17e-4f9b-a079-5bbd3be9feab" /> |
+| Donanım Prototip Tasarımı | 
+|---------------------------|
+| <img width="400" alt="Fiziksel Prototip Tasarımı" src="https://github.com/user-attachments/assets/fc46fcd4-8939-4ecf-bdd7-78163f046e63" /> 
